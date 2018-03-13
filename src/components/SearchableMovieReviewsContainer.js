@@ -2,7 +2,7 @@ import React from 'react';
 import 'isomorphic-fetch';
 import Reviews from './MovieReviews'
 
-const NYT_API_KEY = 'cfe93295999e4a3093ea16d8f40bac5a';
+const NYT_API_KEY = 'XXXXXX';
 
 class SearchableMovieReviewsContainer extends React.Component {
   constructor() {
